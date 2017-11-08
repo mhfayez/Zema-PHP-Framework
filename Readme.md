@@ -3,7 +3,9 @@
 * Version       : 0.1 alpha
 * Architecture  : MVC
 
-[Wiki](https://bitbucket.org/mhfayez/zema-php-framework/wiki/Samples)
+### Wiki ###
+
+[Go to Wiki](https://github.com/mhfayez/Zema-PHP-Framework/wiki)
 
 ### Zema PHP Framework is an experimental Framework; The intention is to keep php code or any templating script away from the view. ###
 
