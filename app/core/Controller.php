@@ -179,7 +179,7 @@ class Controller extends Tagger
      * getCurrentState method : returns the current state of the object
      * @return $this
      */
-    public function getCurrentState(){
+    public function state(){
         return $this;
     }
 
